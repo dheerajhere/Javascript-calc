@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+    margin-top: 100px;
+}
+
+table{
+    margin: auto;
+}
+h1{
+    font-size: 47px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    font-size: 40px;
+    height: 65px;
+    width: 342px;
+    margin-bottom: -1px;
+    border: 2px solid black;
+    background-color: rgb(189, 189, 189);
+}
+button{
+    font-size: 35px;
+    width: 89px;
+    height: 75px;
+    margin: -2px -3px;
+}
+.btn{
+    background-color: rgb(39, 55, 59);
+    color: white;
+    border: 1px solid black;
+}
+.btnn{
+    background-color: rgb(241, 92, 23);
+    color: white;
+    border: 1px solid black;
+}
